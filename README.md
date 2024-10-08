@@ -7,8 +7,8 @@ I invite you to clone this project and run the command...
 
 
 >[!IMPORTANT]
-Commands: 
-npm install 
-npm run test
+>Commands: 
+>npm install 
+>npm run test
 
 ...to check how its working on. 
