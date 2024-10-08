@@ -5,6 +5,8 @@ This project includes a lot of excercises resolved by me using JavaScript and Je
 
 I invite you to clone this project and run the command...
 
+
+>[!IMPORTANT]
 npm install
 npm run test
 
